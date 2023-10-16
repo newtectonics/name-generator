@@ -1,0 +1,46 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python-specific files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+*.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local development settings
+*.log
+*.sqlite3
+*.db
+*.db-journal
+
+# Dependency management
+pip-lock.txt
+
+# Compiled Python files
+*.pyc
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore system-generated temporary files
+Thumbs.db
+
+# Ignore user-specific Python settings
+*.bak
+*.swp
+*~
